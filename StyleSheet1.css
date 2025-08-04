@@ -1,6 +1,15 @@
 ﻿body {
     font-family: Arial, sans-serif;
     font-size: 18px;
+    color: #111; /* darker text */
+    background-color: #fff;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
     color: #111; /* darker */
     background-color: #fff;
     line-height: 1.6;
